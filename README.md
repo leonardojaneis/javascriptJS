@@ -5,7 +5,8 @@
 Aprenda a Linguagem JavaScript de forma simples. 
 
 
-![homem_letra](https://photos1.blogger.com/blogger/184/383/1600/hommelettre1.gif)
-
-
 [Aula JavaScript](https://google.com)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/leonardojaneis/javascriptJS)
+![GitHub License](https://img.shields.io/github/license/leonardojaneis/javascriptJS)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/leonardojaneis)
